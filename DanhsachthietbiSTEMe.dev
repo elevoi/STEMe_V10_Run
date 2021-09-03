@@ -1,4 +1,14 @@
 {
+    "000200000001": {
+        "dateCreated": "",
+        "dateModified": "",
+        "description": "Sử dụng cho tài khoản Root (Quản lý)\nCác cài đặt và cấu hình cho phần mềm, phần cứng quan trọng.",
+        "iconPath": ":/image/UserAccounts.jpg",
+        "nameDevice": "Tài khoản người dùng",
+        "objectName": "vdevice000200000001",
+        "serialNumberDevice": "000200000001",
+        "typeDevice": "Root"
+    },
     "000300000002": {
         "dateCreated": "",
         "dateModified": "",
@@ -209,14 +219,14 @@
         "serialNumberDevice": "015100000046",
         "typeDevice": "Sensor"
     },
-    "110100000030": {
+    "110100000070": {
         "dateCreated": "",
         "dateModified": "",
-        "description": "Model:\t\tMFS1101\nDải đo:\t\t± 10N\nĐộ phân dải:\t0.01N\nGiao tiếp:\t\tRS485\nSản xuất:\twww.vee.com.vn\n",
+        "description": "Model:\t\tMFS1101\nDải đo:\t\t± 50N\nĐộ phân dải:\t0.001N\nGiao tiếp:\t\tRS485\nSản xuất:\twww.vee.com.vn\n",
         "iconPath": ":/image/MFS1101_Icon.jpg",
         "nameDevice": "Mô đun Đo Lực",
-        "objectName": "vdevice110100000030",
-        "serialNumberDevice": "110100000030",
+        "objectName": "vdevice110100000070",
+        "serialNumberDevice": "110100000070",
         "typeDevice": "Module"
     },
     "110200000046": {
@@ -227,16 +237,6 @@
         "nameDevice": "Giao động lò xo",
         "objectName": "vdevice110200000046",
         "serialNumberDevice": "110200000046",
-        "typeDevice": "Module"
-    },
-    "110200000048": {
-        "dateCreated": "",
-        "dateModified": "",
-        "description": "",
-        "iconPath": ":/image/MFS1102.jpg",
-        "nameDevice": "Giao động lò xo 1",
-        "objectName": "vdevice110200000048",
-        "serialNumberDevice": "110200000048",
         "typeDevice": "Module"
     }
 }
